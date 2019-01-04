@@ -1,1 +1,1 @@
-# rocketseat-es6
+# RocketSeat - ES6
